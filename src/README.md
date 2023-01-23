@@ -14,5 +14,5 @@ features:
 footer: Made by Bijit Mondal with ❤️
 ---
 <ClientOnly>
-<Vssue title="MyIssue" />
+  <Vssue title="MyIssue" />
 </ClientOnly>

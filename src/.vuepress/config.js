@@ -1,6 +1,9 @@
 module.exports = {
   title: 'iLib Documentation',
   description: 'iLib - Library for RKMVCC',
+  head: [
+    ['link', { rel: 'icon', href: '/images/logo.png' }]
+  ],
   theme: 'yuu',
   themeConfig: {
     yuu: {
@@ -19,7 +22,7 @@ module.exports = {
         ariaLabel: 'Guide',
         items: [
           { text: 'Installation', link: '/guide/installation/' },
-          { text: 'Admin', link: '/guide/admin/' },
+          { text: 'Admin', link: '/guide/installation.html#for-mobile-user-admin' },
           {text: 'Developer', link:'/guide/developer/' },
         ]
       },

@@ -5,12 +5,12 @@ tagline: Documentation for iLib
 actionText: Get Started →
 actionLink: /guide/installation
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Open Source
+  details: It is a open source project and open for development by RKMVCC student
+- title: Dark UI
+  details: A eye soothing dark UI for comfort
+- title: User Friendly
+  details: Very user-friendly and easy to use
 footer: Made by Bijit Mondal with ❤️
 ---
 <ClientOnly>

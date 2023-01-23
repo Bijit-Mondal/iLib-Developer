@@ -5,7 +5,8 @@ tags:
   - website
 ---
 
-# Installation and Account Creation
+
+### Installation and Account Creation
 
 * [For Mobile User (Student)](#for-mobile-user-student)
 * [For Mobile User (Admin)](#for-mobile-user-admin)

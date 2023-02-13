@@ -17,7 +17,9 @@ tags:
 
 #### **Step 1**:
 
-[Click Here](https://ilib.bijit.codes) Or scan the below image with your mobile device with active internet connection
+Coms - [Click Here](https://coms.ilib.website)
+
+Or scan the below image with your mobile device with active internet connection
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_180721_QR_Code.png)
@@ -118,7 +120,7 @@ Step 1-10 are same as student user. You can go through it.
 
 Asks the developer to make yourself admin.
 
-#### **Making student premium:**
+### **Making student premium:**
 
 Go to students details section
 
@@ -135,14 +137,14 @@ Approve as premium user or delete the user.
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_210925_Screenshot_2023-01-08-17-34-30-74_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
-#### **Approve Pending Request**
+### **Approve Pending Request**
 
 Click on the **Load Pending Request** button. and approve or decline students borrow request.
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_211231_Screenshot_2023-01-08-17-35-50-54_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
-#### **Approve Return Request**
+### **Approve Return Request**
 
 Click on the  **Load Return Request** button. and approve return request. **If the user is late to return the book,fine charges button will glow**
 
@@ -156,14 +158,14 @@ Click on the **Add a new book** button from menu and enter the details of the bo
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_211730_Screenshot_2023-01-08-17-32-34-09_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
-#### **The image URL part**
+### **The image URL part**
 
 Search for the book front page image online and paste the link on the input area.
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_211925_Screenshot_2023-01-08-17-33-29-97_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
-#### **Upload book's pdf**
+### **Upload book's pdf**
 
 You can upload books pdf but then make sure the pdf is less than 1 MB in size.
 
@@ -171,7 +173,7 @@ You can upload books pdf but then make sure the pdf is less than 1 MB in size.
 
 ### For Linux User (All)
 
-#### **Step 1: Download**
+### **Step 1: Download**
 
 > Ubuntu, Debian
 

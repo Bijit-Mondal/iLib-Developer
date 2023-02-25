@@ -189,11 +189,15 @@ $ sudo apt install snapd
 Go to the downloaded directory and open terminal
 
 ```
-$ sudo snap install iLib_0.1.0_amd64.snap --dangerous
+$ sudo snap install iLib_<version-number>_amd64.snap --dangerous
 ```
 
 ```
 $ ilib
+```
+Sometimes ilib is not the package name, then run below command
+```
+$ rkmvcc
 ```
 
 > Arch Linux
@@ -213,11 +217,15 @@ $ yay -Sy snapd
 Go to the downloaded directory and open terminal
 
 ```
-$ sudo snap install iLib_0.1.0_amd64.snap --dangerous
+$ sudo snap install iLib_<version-number>_amd64.snap --dangerous
 ```
 
 ```
 $ ilib
+```
+Sometimes ilib is not the package name, then run below command
+```
+$ rkmvcc
 ```
 
 #### **Step 2:**
